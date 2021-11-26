@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(24, 24, 21);
+}
+.boddy{
+    background-color: lightgoldenrodyellow;
+}
+main{
+    background-color: rgb(228, 228, 228);
+    margin:15px;
+    margin-left:26.7%;
+    width:700px;
+    height:300px;
+    display: grid;
+    grid-template-rows: 300px;
+    grid-template-columns: repeat(2, 400px);
+    border-radius: 15px;
+}
+.image{
+    background-color: lightgray;
+    width:300px;
+    height:200px;
+    margin-left: 40px;
+    margin-top:12%;
+    border-radius: ;
+}
+.containt{
+    background-color: rgb(240, 240, 240);
+    width:300px;
+    height:240px;
+    margin-left:-40px;
+    margin-top:12%;
+    border-radius: 15px;
+    
+
+}
+.infor{
+    font-size: 13px;
+}
+.lan{
+    font-size:15px;
+    margin-left: 2%;
+}
+.reallife{
+    font-size:20px;
+    margin-left: 2%;
+}
+.cata{
+    font-size: 18px;
+    margin-left: 2%;
+}
+.du{
+    font-size:18px;
+    margin-left: 2%;
+    color:red;
+}
+.lan{
+    font-size:18px;
+    margin-left: 2%;
+    color: green;
+}
+.button{
+    background-color: greenyellow;
+    width: 100px;
+    height:30px;
+    border-radius: 30px;
+    margin-left: 3%;
+}
+.button:hover{
+    background-color: white;
+    width:110px;
+    align-items: center;
+}
+.navbar{
+    background-color: rgb(0, 0, 0);
+    width:600px;
+    height:30px;
+    margin-left:30%;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+.navbars{
+    background-color: rgb(0, 0, 0);
+    border: 0px;
+    color:white;
+    margin-left:5%;
+    margin-top: 0.7%;;
+    font-size:18px;
+}
+.navbars:hover{
+    background-color: white;
+    border:1px solid black;
+    color:black;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
